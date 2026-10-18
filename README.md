@@ -5,7 +5,7 @@ Find duplicate files by content, see how much space they waste, and optionally c
 ## Install
 
 ```bash
-pip install .          # or: pip install git+https://github.com/YOUR-USERNAME/dupefind
+pip install .          # or: pip install git+https://github.com/mathewzr/dupefind
 ```
 
 ## Usage
